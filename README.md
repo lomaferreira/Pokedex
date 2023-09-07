@@ -1,8 +1,7 @@
 # Pokedex
 
 <p align='center'><img src= 'https://img.shields.io/badge/license-MIT-red'/> 
- <img src= 'https://img.shields.io/badge/status-in_progress-red
-'/>
+ <img src= 'https://img.shields.io/badge/status-_progress-red'/>
 </p>
 <p align="center">
   <img alt="imagem do projeto" src="" width="80%"/>
