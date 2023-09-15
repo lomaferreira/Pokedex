@@ -16,6 +16,11 @@
   padding: 0.5rem 1rem;
   background-color: #ff69b4;
   border-radius: 1rem;
+  transition: transform 0.2s;
+}
+
+ol .pokemon:hover {
+  transform: scale(1.1);
 }
 
 .pokemon .name {

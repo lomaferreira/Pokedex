@@ -4,7 +4,7 @@
  <img src= 'https://img.shields.io/badge/status-_progress-red'/>
 </p>
 <p align="center">
-  <img alt="imagem do projeto" src="" width="80%"/>
+  <img alt="imagem do projeto" src=".github/pokedex-img.png" width="80%"/>
    
 </p>
 
@@ -16,7 +16,7 @@
 
 # Descrição do Projeto
 
-Uma página Pokedex que mostra os pokemons, seu tipo e imagem. Usando a API Pokeapi.
+Uma página Pokedex que mostra todos os pokemons da 2º geração, seu tipo e imagem. Usando a API Pokeapi.
 
 # Tecnologias utilizadas
 
